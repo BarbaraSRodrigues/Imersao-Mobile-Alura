@@ -10,19 +10,17 @@ Durante a imersão, tivemos uma aula extra + três aulas principais. Cada uma de
 
 | Aula | Conteúdo |
 |------|----------|
-| Aula Extra | Início de um projeto em Flutter, brincando com espaçamentos, posição e utilização de widgets |
-| Aula 1 | *(Em breve)* |
-| Aula 2 | *(Em breve)* |
-| Aula 3 | *(Em breve)* |
+| Aula Extra | *Iniciando no Flutter em um projeto fora do TechTaste, ensinando o básico do básico*  |
+| Aula 1 | *Início de um projeto em Flutter, brincando com espaçamentos, posição e utilização de widgets <br> Realizar a configuração inicial do projeto no IDX Importar assets e organizar a estrutura de temas <br>Criar o arquivo da tela de Splash Explorar os principais Widgets do Flutter, como: Scaffold para estrutura básica Stack, Column e Padding para organização dos elementos <br> Image com fonte asset Text, SizedBox e ElevatedButton para a composição visual<br> Conhecer e aplicar os arquivos de cores (AppColor) e tema (AppTheme)* |
+| Aula 2 | *Implementar a navegação entre telas e construir a HomeScreen com AppBar, Drawer e TextFormField Modularizar a interface com os widgets CategoryWidget e RestaurantWidget <br> Criar um model de restaurante com construtor, toMap() e fromMap() <br>Desenvolver a classe RestaurantData para ler e disponibilizar dados de um JSON<br> Utilizar o Provider para gerenciar o estado e exibir dinamicamente os restaurantes na Home* |
+| Aula 3 | *Construir a tela de detalhes dos restaurantes e permitir adicionar pratos à sacola <br>Criar o BagProvider para gerenciar a sacola, com métodos de adicionar, remover e limpar itens
+<br> Modularizar a AppBar com uma função getAppBar, incluindo Badge com contagem de itens Modelar os pratos (dishes) e integrá-los aos restaurantes e à sacola <br> Desenvolver a tela de Checkout, com lógica para totalização do pedido e exibição de valor com toStringAsFixed* |
 
 ---
 
-## 🧑‍💻 Sobre os Arquivos
+## 🧑‍💻 Sobre o Ambiente de Desenvolvimento
 
-Este projeto foi desenvolvido utilizando o **Firebase Studio**. Por isso, os arquivos de código estão disponíveis em formato `.zip` — já que a ferramenta não permite o download direto dos arquivos de forma individual.
-
-Você pode baixar os arquivos de cada aula nos releases deste repositório ou explorar os `.zip` na pasta correspondente.
-
+Este projeto foi desenvolvido utilizando o **Firebase Studio**. 
 ---
 
 ## 🚀 Tecnologias Utilizadas
