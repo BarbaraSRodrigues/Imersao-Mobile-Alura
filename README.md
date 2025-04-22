@@ -19,7 +19,7 @@ Durante a imersão, tivemos uma aula extra + três aulas principais. Cada uma de
 
 ## 🧑‍💻 Sobre o Ambiente de Desenvolvimento
 
-Este projeto foi desenvolvido utilizando o **Firebase Studio**. 
+Este projeto foi desenvolvido utilizando o **Firebase Studio** e está todo dentro de um arquivo zip. 
 ---
 
 ## 🚀 Tecnologias Utilizadas
